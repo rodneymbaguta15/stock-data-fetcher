@@ -36,7 +36,11 @@ Right click the test_fecth_quotes.py and run the file
 Terminal: pytest test_fetch_quotes.py -v
 
 ### Output Example
+Terminal Output
+![Terminal](images/t.jpg)
 
+Exported Data in Excel
+![Excel](images/n.jpg)
 
 
 ### Improvements
